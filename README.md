@@ -20,7 +20,8 @@ deliverables: "A folder & files"
 
 ![](making-files-folders.jpg)
 
-**Recreate this folder structure on your own computer.**
+- **Recreate this folder structure on your own computer.**
+- **All the files can remain completely empty—they just have to exist.**
 
 ---
 
